@@ -1,0 +1,28 @@
+.task-manager-container {
+	padding: 20px;
+}
+
+.task-item {
+	background-color: #ffffff;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.task-details {
+	background-color: #ffffff;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 10px;
+	color: #0f0f0f;
+}
+
+.task-details p {
+	margin: 5px 0;
+}
+
+.task-details button {
+	margin-right: 5px;
+}
